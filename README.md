@@ -21,9 +21,6 @@ un archivo para poder descargar y consultar lo que contiene este.
 
 [Requisitos del proyecto](https://github.com/samuelmg/programacion-internet/blob/master/requisitos-proyecto.md)
 
-## Integrantes:
-Dominguez Edgar
-
 ## Instrucciones de instalación: Comandos a usar una vez clonado el proyecto
 * composer install
 * npm install
